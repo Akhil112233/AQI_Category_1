@@ -1,0 +1,5206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Project Atuin Base Build: alaak:25-03-2025 20:44:33">
+    <name>25-03-2025 20:44:33</name>
+    <Placemark id="16193">
+      <name>Rochefort</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-0.95879999999999999,45.942100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16194">
+      <name>Rochester</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-77.616200000000006,43.167999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16195">
+      <name>Rochester</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-70.978700000000003,43.298999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16201">
+      <name>Rosenberg</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.822299999999998,29.5456,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16202">
+      <name>Rostov</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 26 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>39.700000000000003,47.2333,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16205">
+      <name>Roubaix</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>3.1817000000000002,50.690100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16206">
+      <name>RoyalLeamingtonSpa</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-1.5369999999999999,52.292000000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16211">
+      <name>Saiha</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 10 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>92.969999999999999,22.48,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16213">
+      <name>Salem</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.67180000000001,40.053899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16214">
+      <name>Salihorsk</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>27.533300000000001,52.799999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16217">
+      <name>Salto</name>
+      <description>AQI: 23 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 9 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-57.950000000000003,-31.383299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16218">
+      <name>Salvador</name>
+      <description>AQI: 30 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.5</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-38.476700000000001,-12.9747,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16219">
+      <name>Salzwedel</name>
+      <description>AQI: 43 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 43 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>11.15,52.850000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16220">
+      <name>Samaniego</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 5 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-77.599999999999994,1.3500000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16221">
+      <name>Samsun</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>36.333599999999997,41.290300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16227">
+      <name>Sanford</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-81.2757,28.789100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16228">
+      <name>Sanford</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-70.757300000000001,43.424399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16233">
+      <name>SanJose</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>125.5889,10.0083,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16234">
+      <name>SanJuan</name>
+      <description>AQI: 26 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 8 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 26 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-98.152000000000001,26.190300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16244">
+      <name>SanRoque</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-58.716700000000003,-28.566700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16245">
+      <name>Sansepolcro</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 20 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>12.1439,43.575600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16250">
+      <name>SantaElena</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-88.416700000000006,13.3833,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16252">
+      <name>SantaMaria</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-51.8628,-24.9389,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16253">
+      <name>SantaMaria</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>120.7003,15.9808,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16254">
+      <name>SantaMaria</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>120.48139999999999,17.3719,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16256">
+      <name>Sarapul</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>53.799999999999997,56.466700000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16260">
+      <name>SaukRapids</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.153800000000004,45.598100000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16266">
+      <name>Schneverdingen</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>9.8000000000000007,53.116700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16268">
+      <name>Sciacca</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 48 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>13.088900000000001,37.5092,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16269">
+      <name>Scottsbluff</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-103.66160000000001,41.868400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16270">
+      <name>Scottsboro</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-86.049099999999996,34.643799999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16272">
+      <name>Seabrook</name>
+      <description>AQI: 30 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-76.850200000000001,38.980200000000004,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16274">
+      <name>Seelze</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>9.5981000000000005,52.396099999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16275">
+      <name>Semey</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 15 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>80.2667,50.433300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16277">
+      <name>Severn</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-79.5167,44.75,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16278">
+      <name>Severobaykalsk</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>109.3167,55.649999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16289">
+      <name>Siegen</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.0167000000000002,50.883299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16291">
+      <name>SilverSpring</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-77.056700000000006,40.250300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16292">
+      <name>Simav</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 49 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>28.9833,39.083300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16296">
+      <name>SiouxFalls</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.731099999999998,43.5396,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16299">
+      <name>Sisian</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>46.032200000000003,39.520800000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16301">
+      <name>Smithfield</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.530799999999999,41.901400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16302">
+      <name>Soest</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.1091999999999995,51.571100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16303">
+      <name>Sokolov</name>
+      <description>AQI: 32 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>12.6402,50.181399999999996,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16304">
+      <name>Soledade</name>
+      <description>AQI: 17 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 11 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-36.3628,-7.0568999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16305">
+      <name>Somerville</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>145.17699999999999,-38.225999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16308">
+      <name>Sondershausen</name>
+      <description>AQI: 34 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>10.8667,51.366700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16310">
+      <name>SongPhiNong</name>
+      <description>AQI: 35 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>100.0389,14.230600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16311">
+      <name>Sonneberg</name>
+      <description>AQI: 29 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>11.166700000000001,50.350000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16312">
+      <name>Sorgues</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.8724999999999996,44.008299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16313">
+      <name>Sorgun</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 26 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>35.190300000000001,39.814399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16314">
+      <name>Soria</name>
+      <description>AQI: 32 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-2.4666999999999999,41.7667,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16315">
+      <name>Sorsk</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>90.25,54.033299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16316">
+      <name>Sosenskiy</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>35.966700000000003,54.049999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16320">
+      <name>Springfield</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-72.539500000000004,42.115499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16321">
+      <name>Springfield</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.693899999999999,49.929200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16328">
+      <name>Staveley</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-1.3484,53.269399999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16330">
+      <name>Stockerau</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>16.210799999999999,48.385800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16331">
+      <name>Stockholm</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 8 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>18.0686,59.3294,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16337">
+      <name>Strathmore</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.4003,51.037799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16338">
+      <name>Strood</name>
+      <description>AQI: 29 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>0.47799999999999998,51.393000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16339">
+      <name>Strunino</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>38.583300000000001,56.366700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16343">
+      <name>Sucre</name>
+      <description>AQI: 14 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 6 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-74.725300000000004,8.8139000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16346">
+      <name>Sulingen</name>
+      <description>AQI: 34 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.8000000000000007,52.666699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16348">
+      <name>Sunnyside</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.00579999999999,46.3157,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16350">
+      <name>Susa</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-73.813999999999993,5.4527999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16351">
+      <name>Susaki</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>133.29310000000001,33.392499999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16353">
+      <name>Svetlograd</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 48 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 20 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>42.850000000000001,45.350000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16359">
+      <name>TakomaPark</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-77.002799999999993,38.981000000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16360">
+      <name>Talence</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-0.58399999999999996,44.799999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16363">
+      <name>Tamm</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>9.1166999999999998,48.916699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16364">
+      <name>Tamworth</name>
+      <description>AQI: 23 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>150.91669999999999,-31.083300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16373">
+      <name>Taucha</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 47 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>12.493600000000001,51.380000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16375">
+      <name>Taupo</name>
+      <description>AQI: 18 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 18 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>176.0694,-38.6875,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16379">
+      <name>Tayga</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>85.616699999999994,56.066699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16381">
+      <name>Taylorsville</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.94929999999999,40.6569,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16382">
+      <name>Tczew</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>18.7972,54.087499999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16389">
+      <name>Temse</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.2000000000000002,51.116700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16396">
+      <name>Thale</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>11.050000000000001,51.75,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16399">
+      <name>Thuin</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.2832999999999997,50.333300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16401">
+      <name>Tigard</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.78449999999999,45.423699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16407">
+      <name>Tosagua</name>
+      <description>AQI: 28 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-80.260000000000005,-0.78000000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16408">
+      <name>Touba</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 14 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-15.8833,14.8667,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16409">
+      <name>Tournai</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>3.3881000000000001,50.605600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16410">
+      <name>Trappes</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>2.0024999999999999,48.777500000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16411">
+      <name>Trelew</name>
+      <description>AQI: 18 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 2 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-65.299999999999997,-43.25,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16412">
+      <name>Trepuzzi</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>18.066700000000001,40.399999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16414">
+      <name>Trinidad</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-79.983099999999993,21.804200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16415">
+      <name>Troy</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-89.8977,38.726799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16416">
+      <name>Tsaratanana</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 41 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>47.633299999999998,-21.183299999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16417">
+      <name>Tual</name>
+      <description>AQI: 18 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 15 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>132.7508,-5.6368,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16419">
+      <name>Tulun</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>100.5667,54.566699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16421">
+      <name>Turgutlu</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>27.699999999999999,38.5,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16423">
+      <name>Turrialba</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-83.680700000000002,9.8896999999999995,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16424">
+      <name>Tutayev</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>39.549999999999997,57.883299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16425">
+      <name>TwoRivers</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-87.582400000000007,44.156500000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16427">
+      <name>Uchkeken</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>42.5167,43.933300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16429">
+      <name>Uji</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 48 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>135.7997,34.884399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16433">
+      <name>UniversityPlace</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5461,47.214700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16434">
+      <name>Uppsala</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 9 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>17.640000000000001,59.860100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16437">
+      <name>Urussanga</name>
+      <description>AQI: 43 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 43 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-49.320799999999998,-28.517800000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16438">
+      <name>Utena</name>
+      <description>AQI: 34 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>25.600000000000001,55.5,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16439">
+      <name>UthaiThani</name>
+      <description>AQI: 43 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 43 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>100.02500000000001,15.380000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16441">
+      <name>Uvinza</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>30.391100000000002,-5.1036000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16446">
+      <name>ValleHermoso</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-97.814400000000006,25.6736,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16449">
+      <name>Vanimo</name>
+      <description>AQI: 15 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 8 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>141.2833,-2.6667000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16450">
+      <name>Varese</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 35 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 15 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.8332999999999995,45.816699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16452">
+      <name>Varkaus</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>27.8917,62.316699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16455">
+      <name>Veendam</name>
+      <description>AQI: 37 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.8833000000000002,53.100000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16456">
+      <name>Venafro</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>14.0458,41.484400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16458">
+      <name>Vereshchagino</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>54.666699999999999,58.100000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16459">
+      <name>VerkhniyTagil</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 19 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>59.950000000000003,57.383299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16463">
+      <name>ViboValentia</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 46 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>16.0959,38.6753,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16465">
+      <name>Videle</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>25.533300000000001,44.283299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16467">
+      <name>VillaElisa</name>
+      <description>AQI: 24 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-58.399999999999999,-32.166699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16468">
+      <name>Villanueva</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>124.7833,8.5832999999999995,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16471">
+      <name>Villena</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 22 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-0.86580000000000001,38.634999999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16472">
+      <name>Vinci</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>10.916700000000001,43.783299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16474">
+      <name>Vlagtwedde</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>7.1500000000000004,52.950000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16476">
+      <name>Voorst</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.0833000000000004,52.2333,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16477">
+      <name>Vorsma</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>43.25,55.9833,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16479">
+      <name>Waasmunster</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.0846999999999998,51.109699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16480">
+      <name>Wachtberg</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>7.1322000000000001,50.624200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16481">
+      <name>Waco</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-97.188199999999995,31.559899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16483">
+      <name>Walker</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-85.744600000000005,42.985300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16485">
+      <name>Walpole</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.255499999999998,42.1464,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16487">
+      <name>Ware</name>
+      <description>AQI: 28 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-72.284300000000002,42.2806,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16488">
+      <name>WarrensvilleHeights</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-81.522199999999998,41.436300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16491">
+      <name>Waterford</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-72.148300000000006,41.369199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16493">
+      <name>Waterville</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-69.662400000000005,44.5441,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16500">
+      <name>Wellington</name>
+      <description>AQI: 24 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>174.77719999999999,-41.288899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16501">
+      <name>Wernigerode</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 43 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>10.785299999999999,51.835000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16503">
+      <name>Westborough</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 46 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.614000000000004,42.268099999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16504">
+      <name>WestBromwich</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 22 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-1.9950000000000001,52.518999999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16505">
+      <name>Westerkappeln</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>7.8806000000000003,52.315300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16508">
+      <name>Weston</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-89.548699999999997,44.890599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16509">
+      <name>WestUniversityPlace</name>
+      <description>AQI: 30 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.432100000000005,29.715699999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16512">
+      <name>Weymouth</name>
+      <description>AQI: 36 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-70.946600000000004,42.198099999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16513">
+      <name>Weymouth</name>
+      <description>AQI: 36 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-2.4569999999999999,50.613,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16515">
+      <name>Winchester</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.146299999999997,42.451799999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16517">
+      <name>Winterberg</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.5167000000000002,51.200000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16521">
+      <name>Wittlich</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.8897000000000004,49.986899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16523">
+      <name>Wolgast</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 35 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>13.7667,54.049999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16531">
+      <name>Xenia</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-83.941299999999998,39.682899999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16535">
+      <name>Yacuiba</name>
+      <description>AQI: 12 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 11 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-63.677199999999999,-22.0153,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16536">
+      <name>Yaguajay</name>
+      <description>AQI: 43 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 43 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-79.236900000000006,22.330300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16546">
+      <name>Yugorsk</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>63.333300000000001,61.316699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16549">
+      <name>Yuzhne</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 35 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>31.100000000000001,46.630000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16554">
+      <name>Zamora</name>
+      <description>AQI: 23 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 3 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-102.2833,19.9833,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16555">
+      <name>Zandhoven</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.6500000000000004,51.216700000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16556">
+      <name>Zanzibar</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>39.198999999999998,-6.165,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16557">
+      <name>Zeist</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>5.2331000000000003,52.090600000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16559">
+      <name>Zgorzelec</name>
+      <description>AQI: 32 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>15.0083,51.149999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16564">
+      <name>Zihuatanejo</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-101.55110000000001,17.644400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16565">
+      <name>Zonguldak</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 20 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>31.7986,41.456400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16566">
+      <name>Zonhoven</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>5.3647,50.985300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16567">
+      <name>Zulte</name>
+      <description>AQI: 36 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>3.4333,50.916699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16568">
+      <name>Zwevegem</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>3.3332999999999999,50.799999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16569">
+      <name>Ueda</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 16 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>138.2491,36.401899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16575">
+      <name>Urla</name>
+      <description>AQI: 43 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 43 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>26.764700000000001,38.322200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16576">
+      <name>Uyuni</name>
+      <description>AQI: 12 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 10 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-66.816699999999997,-20.466699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16578">
+      <name>Valdemoro</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-3.6741999999999999,40.190800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16585">
+      <name>Valmontone</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 22 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>12.916700000000001,41.783299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16586">
+      <name>Valongo</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-8.5,41.183300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16592">
+      <name>VentnorCity</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-74.486000000000004,39.345700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16593">
+      <name>VerkhnyayaTura</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>59.817500000000003,58.359400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16597">
+      <name>Vespasiano</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-43.922800000000002,-19.6919,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16598">
+      <name>Veurne</name>
+      <description>AQI: 31 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>2.6621999999999999,51.072200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16610">
+      <name>Vlotho</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.8497000000000003,52.166699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16612">
+      <name>Volokolamsk</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>35.950000000000003,56.033299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16615">
+      <name>Vsevolozhsk</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>30.666699999999999,60.033299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16616">
+      <name>Wakefield</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.065600000000003,42.503500000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16618">
+      <name>Wallsend</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-1.534,54.991,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16621">
+      <name>Warka</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>21.199999999999999,51.783299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16622">
+      <name>Warren</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-83.027000000000001,42.493400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16627">
+      <name>Watford</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-0.3957,51.655000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16628">
+      <name>Wattrelos</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>3.2170000000000001,50.700000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16630">
+      <name>Webster</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.118799999999993,29.531700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16631">
+      <name>Webster</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-71.848500000000001,42.052100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16632">
+      <name>Weert</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>5.7000000000000002,51.25,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16633">
+      <name>Werther</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>8.4124999999999996,52.075000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16634">
+      <name>Westchester</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-87.890600000000006,41.849200000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16635">
+      <name>Westerlo</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 41 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>4.9166999999999996,51.083300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16636">
+      <name>WestFargo</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.905699999999996,46.857300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16637">
+      <name>Westfield</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 47 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-74.343199999999996,40.651600000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16646">
+      <name>Wijchen</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>5.7332999999999998,51.799999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16649">
+      <name>Willmar</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.056899999999999,45.121600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16651">
+      <name>Winder</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 46 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-83.721800000000002,33.991700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16654">
+      <name>Winsum</name>
+      <description>AQI: 37 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.5156999999999998,53.331200000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16657">
+      <name>Wolfsburg</name>
+      <description>AQI: 46 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>10.7872,52.423099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16658">
+      <name>Worb</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>7.5644,46.930599999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16660">
+      <name>Wunstorf</name>
+      <description>AQI: 29 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>9.4293999999999993,52.427500000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16670">
+      <name>Yaransk</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>47.899999999999999,57.316699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16671">
+      <name>Yarmouth</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 19 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-70.224199999999996,41.675600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16672">
+      <name>Yatou</name>
+      <description>AQI: 47 (Good)
+CO AQI: 2 (Good)
+Ozone AQI: 47 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>122.4867,37.165300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16673">
+      <name>YazooCity</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-90.407499999999999,32.861899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16674">
+      <name>Yellowknife</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 5 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.4053,62.4709,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16677">
+      <name>Yichun</name>
+      <description>AQI: 46 (Good)
+CO AQI: 2 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>2</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>128.88929999999999,47.723500000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16679">
+      <name>Yonago</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>133.33330000000001,35.433300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16680">
+      <name>Yorkton</name>
+      <description>AQI: 25 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-102.4628,51.213900000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16681">
+      <name>Yugawara</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>139.10830000000001,35.1479,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16683">
+      <name>Zaragoza</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>120.7933,15.449199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16685">
+      <name>Zayukovo</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>43.326900000000002,43.611899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16686">
+      <name>Zelenogorsk</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>94.583299999999994,56.100000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16687">
+      <name>Zevenaar</name>
+      <description>AQI: 37 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.0667,51.916699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16690">
+      <name>Zhirnovsk</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 44 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>44.783299999999997,50.9833,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16692">
+      <name>Zutphen</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>6.1950000000000003,52.140000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16694">
+      <name>Zyryanovsk</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 24 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>c8ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://prudhvireddy999.github.io/png/cloud.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>84.254800000000003,49.7453,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
